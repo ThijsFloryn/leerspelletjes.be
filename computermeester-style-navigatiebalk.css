@@ -1,0 +1,28 @@
+.knop-nav-top{ 
+        padding:4px;
+        margin-left:9px;
+        margin-right:9px;
+        }
+.btn {
+        
+         font:bold 25px Cabin Sketch; color:#000000;  text-decoration:none;
+        color: #000;
+        padding-top: 5px;
+        font-size: 1.4rem;
+        font-weight: 600;
+        border: none;
+        border-radius: 2rem;
+        cursor: pointer;
+        transition-duration: 0.4s;
+         box-shadow: 3px 3px  3px rgba(0,0,0,0.6);
+        -moz-box-shadow: 3px 3px  3px rgba(0,0,0,0.6);
+        -webkit-box-shadow: 3px 3px  3px rgba(0,0,0,0.6);
+        -o-box-shadow: 3px 3px  3px rgba(0,0,0,0.6);
+    }
+.paddingmeticon {padding-left: 10px;}
+
+.btn:hover {
+        background: #fff;
+        box-shadow: 0px 2px 20px 10px #999999;
+        color: #ff0000;
+    }
